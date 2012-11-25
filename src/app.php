@@ -22,7 +22,8 @@ $app->get('/', function() use ($app){
 });
 
 $app->get('/deleteAll', function() use ($app){
-	$app['db.dumb']->delete(array('442634936'));
+	
+	$app['db']->delete('dumb',array(1,2));
 
 	return "aa";//$app['twig']->render('index.html.twig', array());
 });
