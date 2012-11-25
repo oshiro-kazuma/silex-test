@@ -1,5 +1,5 @@
 gitの練習を兼ねて。  
-composerでモジュールを管理しつつ、.gitignoreに./vendor/を記載してgitで管理しないように。  
+モジュールをはcomposerで管理し、.gitignoreに/vendor/を記載してgitで管理しないように。  
 initApplication.shを(rootがいい。。)叩けば
 
 - composerでモジュールを解決
