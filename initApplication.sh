@@ -10,5 +10,5 @@ php composer.phar install
 # create sqlite3 db
 sqlite3 ./db/app.db < ./db/build.sql
 
-chown -R apache:apache ./db
+chown  apache:apache ./db/app.db
 

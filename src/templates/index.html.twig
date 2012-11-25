@@ -1,9 +1,11 @@
 {% extends 'layout.html.twig' %}
 
 {% block container_content %}
+<h1>test</h1>
 <table class="table table-bordered">
     {% for item in data %}
         <tr>
+           <td>{{ item.datetime }}</td>
            <td>{{ item.a }}</td>
            <td>{{ item.b }}</td>
         </tr>
