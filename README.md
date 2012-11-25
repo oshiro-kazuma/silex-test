@@ -9,5 +9,8 @@ initApplication.shを(rootがいい。。)叩けば以下が処理される。
 ### wiki書いていきます
 https://github.com/ariteku/silex-test/wiki
 
+### demo
+http://www.takuan.me/silex-test/web/
+
 ### 参考
 http://qpleple.github.com/silex-bootstrap
