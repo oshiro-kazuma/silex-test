@@ -6,7 +6,7 @@ initApplication.shを(rootがいい。。)叩けば以下が処理される。
 - sqlite3のdbファイルを生成
 - その他準備
 
-何作るかは…決めて…ない
+何作るかは…決めて…ない！
 
 ### wiki書いていきます
 https://github.com/ariteku/silex-test/wiki
