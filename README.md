@@ -1,4 +1,4 @@
-## gitの練習を兼ねて
+## Gitの練習を兼ねて
 モジュールをはcomposerで管理し、.gitignoreに/vendor/を記載してgitで管理しないように。  
 initApplication.shを(rootがいい。。)叩けば以下が処理される。
 
