@@ -13,7 +13,7 @@ initApplication.shを(rootがいい。。)叩けば以下が処理され実行�
 
 何作るかは…決めて…ない！
 
-### wiki書いていきます
+### wiki書いていこうと思います
 https://github.com/ariteku/silex-test/wiki
 
 ### demo
